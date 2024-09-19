@@ -3,7 +3,7 @@ const Header = () => {
   return (
     <div className="bg-[#222222] flex justify-around">
         <div>
-            <img src="../../public/assets/images/logo.png" alt="" />
+            <img src="../assets/images/logo.png" alt="" />
         </div>
         <div className="text-white flex items-center gap-10">
             <div>Home</div>
