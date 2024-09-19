@@ -4,7 +4,7 @@ const Banner = () => {
   return (
     <div className="items-center text-center ">
       <div className="size-56 m-auto pt-5 ">
-        <img src="../../public/images/banner.png" alt="" />
+        <img src="../../public/assets/images/banner.png" alt="" />
       </div>
       <div>
         <h1 className="font-extrabold text-3xl">
@@ -25,7 +25,7 @@ const Banner = () => {
       </div>
       <div className="text-center text-white m-5 p-5">
         <h1 className="text-[#C5C5C5] text-3xl">EXPERIENCE WITH</h1>
-        <img className="m-auto mt-9 hover:cursor-pointer" src="../../public/images/Logos.png" alt="" />
+        <img className="m-auto mt-9 hover:cursor-pointer" src="../../public/images/assets/Logos.png" alt="" />
       </div>
     </div>
   );
