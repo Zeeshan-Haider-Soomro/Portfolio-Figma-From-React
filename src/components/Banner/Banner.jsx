@@ -25,7 +25,7 @@ const Banner = () => {
       </div>
       <div className="text-center text-white m-5 p-5">
         <h1 className="text-[#C5C5C5] text-3xl">EXPERIENCE WITH</h1>
-        <img className="m-auto mt-9 hover:cursor-pointer" src="../../public/images/assets/Logos.png" alt="" />
+        <img className="m-auto mt-9 hover:cursor-pointer" src="../../public/assets/images/Logos.png" alt="" />
       </div>
     </div>
   );
